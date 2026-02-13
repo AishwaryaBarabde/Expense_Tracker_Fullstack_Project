@@ -1,0 +1,97 @@
+/* ===== GLOBAL ===== */
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #1e3a8a, #3b82f6);
+  min-height: 100vh;
+}
+
+/* ===== MAIN CONTAINER ===== */
+.app-container {
+  width: 85%;
+  margin: 40px auto;
+  padding: 30px;
+  background: #eff6ff;
+  border-radius: 14px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.25);
+}
+
+/* ===== HEADINGS ===== */
+h1 {
+  color: #1e40af;
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: #1d4ed8;
+  margin-top: 30px;
+}
+
+/* ===== FORM ===== */
+form input {
+  padding: 10px;
+  margin: 6px;
+  border-radius: 6px;
+  border: 1px solid #93c5fd;
+  outline: none;
+  font-size: 14px;
+}
+
+form input:focus {
+  border: 1px solid #2563eb;
+  box-shadow: 0 0 5px #60a5fa;
+}
+
+/* ===== BUTTONS ===== */
+button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+button:hover {
+  background: #1d4ed8;
+}
+
+/* ===== TABLE ===== */
+table {
+  width: 100%;
+  margin-top: 15px;
+  border-collapse: collapse;
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+th {
+  background: #2563eb;
+  color: white;
+  padding: 12px;
+}
+
+td {
+  padding: 10px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+tr:hover {
+  background: #dbeafe;
+}
+
+/* ===== SUMMARY CARD ===== */
+.summary-card {
+  background: #bfdbfe;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+/* ===== CHART IMAGE ===== */
+img {
+  margin-top: 15px;
+  border-radius: 8px;
+}
