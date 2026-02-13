@@ -155,7 +155,6 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
-<img width="1893" height="882" alt="Screenshot 2026-02-12 161647" src="https://github.com/user-attachments/assets/557bd940-55a9-4c79-8d45-e359b5514543" />
 <img width="1657" height="880" alt="image" src="https://github.com/user-attachments/assets/a7548ca2-6ce1-43d7-aeef-a07aaecc72b7" />
 
 
