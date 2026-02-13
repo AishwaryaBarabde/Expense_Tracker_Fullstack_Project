@@ -1,4 +1,4 @@
-<img width="1893" height="882" alt="Screenshot 2026-02-12 161647" src="https://github.com/user-attachments/assets/24c71606-37ca-4e05-a86b-d40ab41d2d6c" /># 💰 Expense Tracker Full Stack Application
+Expense Tracker Full Stack Application
 
 A full-stack Expense Tracker web application that allows users to record, manage, and analyze daily expenses with monthly insights and visualizations.
 
